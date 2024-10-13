@@ -3,7 +3,7 @@
 - dash (shell)
 - imlib2
 - xsetroot package (status2d uses this to add colors on dwmbar)
-- JetbrainsMono Nerd Font or any nerd font but dont forget to set it in config.def.h
+- Hack Nerd Font or any nerd font but dont forget to set it in config.def.h
 - Make sure to setup your terminal's theme accordingly do chadwm's theme such as nord, onedark etc...
 
 ## Other requirements
