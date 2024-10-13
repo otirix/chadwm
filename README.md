@@ -1,3 +1,7 @@
+# Chadwm Custom Build
+
+This is a customized version of Chadwm, a dynamic window manager configuration built on top of dwm.
+
 # Requirements
 
 - dash (shell)
@@ -97,12 +101,9 @@ eww open eww
 
 - It could be a good idea to add these lines to your autostart file, located at ~/.config/chadwm/scripts/run.sh
 
-# Credits
+## Credits
 
-- HUGE THANKS to [eProTaLT83](https://www.reddit.com/user/eProTaLT83). I wanted certain features in dwm like tabbar in monocle, tagpreview etc and he implemented my ideas and created patches for me! I can't even count the number of times he has helped me :v
-- @fitrh helped with [colorful tag patch](https://github.com/fitrh/dwm/issues/1)
-- [6gk](https://github.com/6gk/fet.sh), eww's pure posix fetch functions taken from here
-- [mafetch](https://github.com/fikriomar16/mafetch), modified version of this was used as fetch in the screenshots
+This project is based on the original [ChadWM](https://github.com/chadwm/chadwm) repository. Huge thanks to the original creators and contributors for their work on the project.
 
 # Patches
 
