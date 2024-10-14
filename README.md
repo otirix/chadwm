@@ -103,7 +103,7 @@ eww open eww
 
 ## Credits
 
-This project is based on the original [ChadWM](https://github.com/chadwm/chadwm) repository. Huge thanks to the original creators and contributors for their work on the project.
+This project is based on the original [Chadwm](https://github.com/siduck/chadwm) repository. Huge thanks to the original creators and contributors for their work on the project.
 
 # Patches
 
