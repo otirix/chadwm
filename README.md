@@ -20,7 +20,7 @@ This is a customized version of Chadwm, a dynamic window manager configuration b
 # Install
 
 ```
-git clone https://github.com/siduck/chadwm --depth 1  ~/.config/chadwm
+git clone https://github.com/otirix/chadwm.git --depth 1  ~/.config/chadwm
 cd ~/.config/chadwm/
 mv eww ~/.config
 cd chadwm
