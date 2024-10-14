@@ -80,8 +80,8 @@ clock() {
 }
 
 while true; do
-  # Only check for updates every hour (3600 seconds)
-  if [ $interval = 0 ] || [ $(($interval % 3600)) = 0 ]; then
+  # Only check for updates every minute (60 seconds)
+  if [ $interval = 0 ] || [ $(($interval % 60)) = 0 ]; then
     updates=$(pkg_updates)
   fi
 
