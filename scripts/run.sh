@@ -1,10 +1,11 @@
 #!/bin/sh
+# Swap Caps Lock and Escape
+setxkbmap -option caps:swapescape
 
 xrdb merge ~/.Xresources
 xbacklight -set 10 &
-feh --bg-fill ~/Pictures/Wallpapers/man-and-dog-space.jpg &
+feh --bg-fill ~/Pictures/Wallpapers/1_rain_world.png &
 picom &
-xmodmap -e "clear Lock" -e "keycode 0x42 = Escape" &
 
 # Start dunst for notifications
 dunst &
